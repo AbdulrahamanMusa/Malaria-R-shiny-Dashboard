@@ -7,3 +7,5 @@ Developed: I have developed a dynamic, interactive R-Shiny dashboard that levera
 Acknowledgements
 Posit,
 MALARIA ATLAS
+
+App link:  https://amdatasolution.shinyapps.io/Rshinydash/
